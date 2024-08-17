@@ -3,7 +3,7 @@ const express = require("express");
 const path = require("path");
 const TelegramBot = require("node-telegram-bot-api");
 
-const gameName = "YOUR_GAME_NAME_GOES_HERE";
+const gameName = "Simple_unity_game";
 const webURL = "www.YOUR_URL.com";
 
 const server = express();
